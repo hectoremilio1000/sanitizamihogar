@@ -27,10 +27,11 @@ const Header = () => {
         <Link>Contacto</Link>
       </nav>
       <div className="icons">
-        <FaBars id="menu-bars" onClick={menu_toggle} />
-        <i className="fas fa-search" id="search-icon"></i>
+        <span className="block_icon">
+          <FaBars id="menu-bars" onClick={menu_toggle} />
+        </span>
         <Link className="contacto_w">
-          <FaWhatsapp /> +52 915096462
+          <FaWhatsapp /> <p>+52915096462</p>
         </Link>
         {/* <Link className="fas fa-heart"></Link>
         <Link className="fas fa-shopping-cart"></Link> */}

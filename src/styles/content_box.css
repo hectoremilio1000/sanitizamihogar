@@ -6,7 +6,7 @@
 }
 .main_content_info .title_box {
   width: max-content;
-  font-size: 35px !important;
+  font-size: 35px;
   text-align: center;
   position: relative;
 }
@@ -21,16 +21,16 @@
   background: rgb(21, 68, 162);
 }
 .main_content_info p {
-  font-size: 16px !important;
+  font-size: 16px;
 }
 /* CONTENT WITH GALERY */
 .galery_oficinas {
   display: flex;
-  gap: 20px;
+  flex-wrap: wrap;
   justify-content: space-between;
 }
 .galery_oficinas .card_oficina {
-  width: 25%;
+  width: 23%;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -56,13 +56,12 @@
 .detail_info {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 20px;
   padding: 50px 40px 40px 0px;
 }
 .detail_info .img_info {
   width: 40%;
-  height: 400px;
 }
 .detail_info .img_info img {
   width: 100%;
@@ -96,3 +95,27 @@
 }
 
 /* FIN DECONTENT WITH DETAILS */
+
+/* Responsive */
+@media (max-width: 768px) {
+  .title_box {
+    font-size: 20px !important;
+  }
+  .main_content_info p {
+    font-size: 16px;
+  }
+  .galery_oficinas .card_oficina {
+    width: 100%;
+  }
+
+  .detail_info {
+    padding: 20px 10px 20px 10px;
+  }
+  .detail_info .img_info {
+    width: 100%;
+    display: none;
+  }
+  .detail_info .text_content {
+    width: 100%;
+  }
+}

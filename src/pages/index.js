@@ -4,6 +4,7 @@ import "../styles/home.css";
 import Portada from "../templates/Portada";
 import Content_info from "../templates/Content_info";
 import Content_info2 from "../templates/Content_info2";
+import Footer from "../templates/Footer";
 
 // markup
 const IndexPage = () => {
@@ -13,6 +14,7 @@ const IndexPage = () => {
       <Portada />
       <Content_info />
       <Content_info2 />
+      <Footer />
     </div>
   );
 };

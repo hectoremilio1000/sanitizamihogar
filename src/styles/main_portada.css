@@ -2,6 +2,7 @@
   height: 80vh;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   background-image: url("https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033430745-A7GH4HJH86GIPWSA5C2V/fotografia-arquitectura-interior-entrada-casa.jpg?format=2500w");
   background-position: center;
   background-repeat: no-repeat;
@@ -50,4 +51,15 @@
 }
 .video_portada > video {
   width: 100%;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .text_portada {
+    width: 100% !important;
+    font-size: 14px;
+  }
+  .video_portada {
+    width: 100% !important;
+  }
 }
