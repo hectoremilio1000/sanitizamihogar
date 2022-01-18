@@ -12,9 +12,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-whatshelp",
       options: {
-        facebook: "xxx", // Facebook page ID
         whatsapp: "+5219511028474", // WhatsApp number
-        email: "clientes@sanitizamihogar.com", // Email
+
         company_logo_url:
           "https://imagenesrutalab.s3.amazonaws.com/sanitizamihigar/logos/logosanitiza.png", // URL of company logo (png, jpg, gif)
         greeting_message: "Hola estamos para ayudarte", // Text of greeting message
