@@ -15,29 +15,29 @@ const Content_info = () => {
       <div className="galery_oficinas">
         <div className="card_oficina">
           <img
-            src="https://www.experimenta.es/wp-content/uploads/2018/02/TFD-Restaurant-Leaping-Creative-experimenta-2-e1518083708374.jpg"
-            alt="restaurantes"
+            src="https://imagenesrutalab.s3.amazonaws.com/sanitizamihigar/sanitizahogar.jpg"
+            alt="Hogar"
           />
-          <p className="name_card">Restaurantes</p>
+          <p className="name_card">Casas</p>
         </div>
         <div className="card_oficina">
           <img
             src="https://i.pinimg.com/originals/72/5e/78/725e788fce6ecb0281f460b19d92db06.jpg"
-            alt="restaurantes"
+            alt="oficinas"
           />
           <p className="name_card">Oficinas</p>
         </div>
         <div className="card_oficina">
           <img
             src="https://thumbs.dreamstime.com/b/sala-de-clase-vac%C3%ADa-para-los-estudiantes-con-el-equipo-y-la-cocina-modernos-132952144.jpg"
-            alt="restaurantes"
+            alt="Esculas"
           />
           <p className="name_card">Escuelas</p>
         </div>
         <div className="card_oficina">
           <img
             src="https://thumbs.dreamstime.com/b/f%C3%A1brica-vac%C3%ADa-interior-79408724.jpg"
-            alt="fabricas"
+            alt="Fábricas"
           />
           <p className="name_card">Fábricas</p>
         </div>

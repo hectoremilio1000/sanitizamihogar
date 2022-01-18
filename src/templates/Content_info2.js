@@ -42,7 +42,7 @@ const Content_info2 = () => {
       <div className="detail_info row_reverse">
         <div className="img_info">
           <img
-            src="https://neotekjn.com/wp-content/uploads/2021/08/Sanitizacion3.0.png"
+            src="https://imagenesrutalab.s3.amazonaws.com/sanitizamihigar/sanitizarpreventiva.jpg"
             alt="desinfectant"
           />
         </div>
@@ -93,6 +93,43 @@ const Content_info2 = () => {
             </li>
             <li>Sin olor ni residuos</li>
             <li>No hay necesidad de interrumpir la Operación del Negocio</li>
+          </ul>
+          <h1 className="title_text">Desde $500</h1>
+        </div>
+      </div>
+      <div className="detail_info row_reverse">
+        <div className="img_info">
+          <img
+            src="https://imagenesrutalab.s3.amazonaws.com/sanitizamihigar/perroamigo.jpg"
+            alt="desinfectant"
+          />
+        </div>
+        <div className="text_content">
+          <h1 className="title_text">
+            UTILIZAMOS PRODUCTOS QUE CUIDAN EL AMBIENTE Y A TUS MASCOTAS
+          </h1>
+          <p className="description_text">
+            La Organización Mundial de la Salud promueve el uso de productos de
+            limpieza verdes ya que pueden mejorar considerablemente la calidad
+            del aire en interiores, reducir los problemas de salud de los que
+            habitan el espacio en el largo plazo así como mejorar la
+            productividad y el estado de ánimo.
+          </p>
+          <ul className="list_detail">
+            <li>
+              Productos de limpieza verdes que cumplen con las las normas de la
+              Sociedad Estadounidense de Pruebas y Materiales (American Society
+              for Testing and Materials, ASTM)
+            </li>
+            <li>
+              Somos parte del programa Green Seal y EcoLogo, ambos parte de la
+              Red Mundial de Ecoetiquetado (Global Ecolabelling Network)
+            </li>
+            <li>
+              Productos que cumplen el Programa Formulador de Diseños
+              Respetuosos del Medio Ambiente (Design for the Environment
+              Formulator Program, DFE), de la EPA de Estados Unidos{" "}
+            </li>
           </ul>
           <h1 className="title_text">Desde $500</h1>
         </div>
