@@ -6,11 +6,11 @@ const Portada = () => {
   return (
     <div className="main_portada content_box">
       <div className="text_portada">
-        <h1>Disminuye el riezgo de contagio</h1>
-        <p>Reserva tu cita por medio de Whatsapp</p>
+        <h1>Sanitiza tu Hogar</h1>
+        <p>Cuida a tus amigos y seres queridos</p>
         <a className="button_w" href="#">
           <FaWhatsapp />
-          Whatsapp +52 9156165156
+          Reserva ya
         </a>
       </div>
       <div className="video_portada">

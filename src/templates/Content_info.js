@@ -7,10 +7,10 @@ const Content_info = () => {
       <h1 className="title_box">Sanitiza y desinfecta tus espacios</h1>
       <p className="description_box">
         Con nuestros servicios de Sanitización Profesional que realizamos en
-        Sanitizamihogar te sentirás tranquil@, ya que todos nuestros procesos y
+        Sanitizamihogar te sentirás tranquilo, ya que todos nuestros procesos y
         productos han sido científicamente probados y certificados para combatir
-        efectivamente los virus, bacterias y alergenos dañinos que te garantizan
-        la seguridad higiénica en tu Hogar, Negocio u Oficina
+        efectivamente los virus, bacterias y alérgenos dañinos que te garantizan
+        la seguridad higiénica en tu Hogar, Negocio u Oficina.
       </p>
       <div className="galery_oficinas">
         <div className="card_oficina">
@@ -39,7 +39,7 @@ const Content_info = () => {
             src="https://thumbs.dreamstime.com/b/f%C3%A1brica-vac%C3%ADa-interior-79408724.jpg"
             alt="fabricas"
           />
-          <p className="name_card">Fabricas</p>
+          <p className="name_card">Fábricas</p>
         </div>
       </div>
     </div>

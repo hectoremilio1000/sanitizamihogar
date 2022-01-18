@@ -21,7 +21,7 @@ const Header = () => {
       </Link>
       <nav className={`navbar ${show_menu ? "active" : ""}`}>
         <Link className="active" href="#home">
-          home
+          Inicio
         </Link>
         <Link>Reserva</Link>
         <Link>Contacto</Link>

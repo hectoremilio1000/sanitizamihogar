@@ -8,6 +8,15 @@
   display: flex;
   color: #fff;
 }
+.iconofooter1 {
+  font-size: 14px;
+}
+.iconofooter2 {
+  font-size: 30px;
+}
+.iconofooter3 {
+  font-size: 14px;
+}
 .footer_box {
   width: 30%;
   display: flex;

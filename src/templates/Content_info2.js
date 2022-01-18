@@ -4,13 +4,13 @@ import "../styles/content_box.css";
 const Content_info2 = () => {
   return (
     <div className="main_content_info content_box">
-      <h1 className="title_box">Evita el Contagio</h1>
+      <h1 className="title_box">Evita el Contagio $500</h1>
       <p className="description_box">
-        La sanitización de Espacios que realizamos Sanitizamihogar trabaja a
+        La sanitización de Espacios que realizamos en Sanitizamihogar trabaja a
         escala molecular, brindando una capa protectora por hasta 30 días, por
         lo que se recomienda su aplicación para lugares con tráfico medio y alto
         de personas, así como para Residenciales, así podrás reducir las
-        probabilidades del contagio de enfermedades.
+        probabilidades del contagio de enfermedades como el COVID.
       </p>
       <div className="detail_info">
         <div className="img_info">
@@ -36,6 +36,7 @@ const Content_info2 = () => {
             <li>Sanitización de Empresas</li>
             <li>Sanitización de Escuelas</li>
           </ul>
+          <h1 className="title_text">Desde $500</h1>
         </div>
       </div>
       <div className="detail_info row_reverse">
@@ -66,6 +67,7 @@ const Content_info2 = () => {
               ofrecerte un mejor servicio.
             </li>
           </ul>
+          <h1 className="title_text">Desde $500</h1>
         </div>
       </div>
       <div className="detail_info">
@@ -78,7 +80,7 @@ const Content_info2 = () => {
         <div className="text_content">
           <h1 className="title_text">PROTEJE TU NEGOCIO</h1>
           <p className="description_text">
-            Crea un ambiente saludable, libre de Enfermedades Infecciosas
+            Crea un ambiente saludable, libre de Enfermedades Infecciosas,
             tomando el control y disminuyendo al mínimo la presencia de virus y
             bacterias, disminuyendo el ausentismo laboral con lo que podrás
             mantener la productividad de tu Negocio.
@@ -92,6 +94,7 @@ const Content_info2 = () => {
             <li>Sin olor ni residuos</li>
             <li>No hay necesidad de interrumpir la Operación del Negocio</li>
           </ul>
+          <h1 className="title_text">Desde $500</h1>
         </div>
       </div>
     </div>
