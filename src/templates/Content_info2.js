@@ -4,7 +4,7 @@ import "../styles/content_box.css";
 const Content_info2 = () => {
   return (
     <div className="main_content_info content_box">
-      <h1 className="title_box">Evita el Contagio $500</h1>
+      <h1 className="title_box">Evita el Contagio </h1>
       <p className="description_box">
         La sanitización de Espacios que realizamos en Sanitizamihogar trabaja a
         escala molecular, brindando una capa protectora por hasta 30 días, por
