@@ -9,8 +9,8 @@ const Content_info = () => {
         Con nuestros servicios de Sanitización Profesional que realizamos en
         Sanitizamihogar te sentirás tranquilo, ya que todos nuestros procesos y
         productos han sido científicamente probados y certificados para combatir
-        efectivamente los virus, bacterias y alérgenos dañinos que te garantizan
-        la seguridad higiénica en tu Hogar, Negocio u Oficina.
+        efectivamente los virus, bacterias y alérgenos dañinos, lo que te
+        garantiza la seguridad higiénica en tu Hogar, Negocio u Oficina.
       </p>
       <div className="galery_oficinas">
         <div className="card_oficina">

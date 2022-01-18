@@ -15,11 +15,10 @@ module.exports = {
         facebook: "xxx", // Facebook page ID
         whatsapp: "+5219511028474", // WhatsApp number
         email: "clientes@sanitizamihogar.com", // Email
-        call: "+5219511028474", // Call phone number
         company_logo_url:
-          "//storage.whatshelp.io/widget/xx/xxxx/xxxxxx/logo.jpg", // URL of company logo (png, jpg, gif)
+          "https://imagenesrutalab.s3.amazonaws.com/sanitizamihigar/logos/logosanitiza.png", // URL of company logo (png, jpg, gif)
         greeting_message: "Hola estamos para ayudarte", // Text of greeting message
-        call_to_action: "Call to Action", // Call to action
+        call_to_action: "Llámanos", // Call to action
         button_color: "#b02030", // Color of button
         position: "right", // Position may be 'right' or 'left'
         order: "whatsapp", // Order of buttons
