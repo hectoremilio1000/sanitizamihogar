@@ -58,12 +58,12 @@ const Content_info2 = () => {
           <ul className="list_detail">
             <li>Ayuda a prevenir la contaminación cruzada</li>
             <li>
-              Contamos con Sanitización por Termonebulización y Sanitización por
+              Proveemos Sanitización por Termonebulización y Sanitización por
               Aspersión
             </li>
             <li>Tecnología de Vanguardia</li>
             <li>
-              Contamos con un Sistema de Mejora Continua que nos permite
+              Contamos con un Sistema de Mejora Continua, que nos permite
               ofrecerte un mejor servicio.
             </li>
           </ul>

@@ -8,7 +8,10 @@ const Portada = () => {
     <div className="main_portada content_box" id="iniciofinal">
       <div className="text_portada">
         <h1>Sanitiza tu Hogar</h1>
-        <p>El VIRUS se queda por más de 30 días</p>
+        <p>
+          La diferencia entre limpiar, desinfectar y <b>SANITIZAR</b> es la
+          salud de tu familia
+        </p>
 
         <Link to="https://wa.me/+5219511028474" className="button_w">
           <FaWhatsapp />
